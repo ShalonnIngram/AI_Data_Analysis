@@ -44,6 +44,8 @@ Interest Expense, Taxes
 * in the provided file, you will find two sheets the xxx hseet contains grades ranging from 0 to 100 while the second sheet contains the classification. Your task is to use this grading system to classify each students grade and fill in 
 the 'Result' colummn of the grade sheet
 
+* Can you please suggest several preprocessing steps that
+
 -- Order Data
 * there are sheets in this file, I need to sort/order all sales people by their country, keep the original structure
 
@@ -52,3 +54,16 @@ doesnt perform but will create the forumla for you
 
 -- Inverted names, trailing/leading columns, Standardization letter Capitalization, Find & Replace
 * in this file, consider the name column. The names are inverted instead of Doe,John we want to have John,Doe
+
+* Can you suggest several preprocessing steps that would allow me to perform meaningful data analysis with this file and etract relevant information from it?
+
+
+Hi, I require your assistance in preprocessing a dataset for subsequent analysis. Im a seasoned data analyst and need you to preform this preprocessing exercise as a seasoned and very capable data analyst. This is data
+from the early days of data science online courses platform:
+1. Handle Missing Values:
+- drop the src column in the xxx sheet due to minimal information
+2. Feature Engineering:
+- calculate the duration (in days) between two columns..store this is a new column names...
+- In the xxx classify the names according the the Country
+- Extract year, month, day of the week from the xxx columns
+
