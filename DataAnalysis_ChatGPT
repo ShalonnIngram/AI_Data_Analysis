@@ -49,3 +49,6 @@ the 'Result' colummn of the grade sheet
 
 -- COUNTIFS, SUMIF, VLOOKUPS
 doesnt perform but will create the forumla for you 
+
+-- Inverted names, trailing/leading columns, Standardization letter Capitalization, Find & Replace
+* in this file, consider the name column. The names are inverted instead of Doe,John we want to have John,Doe
