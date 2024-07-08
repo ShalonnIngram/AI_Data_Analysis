@@ -1,0 +1,51 @@
+EDA - Code Interpretor
+
+Descriptive Statistics
+* Can you please provide me the descriptive statistics for the information in this file and comment on these descriptive statistics. Please consider the second sheet as well.
+* Please perform correlation analysis on btoh sheets and formulate hypothesis. If possible, please suggest further data analysis that could be carried out with this data. 
+
+5W & 1 H Framework 
+![Screenshot 2024-07-08 at 5 49 57 AM](https://github.com/ShalonnIngram/AI_Data_Analysis/assets/32176320/42e7a1bc-7ee4-4144-b56c-7877d52ac756)
+
+Comprehensive EDA Prompt
+* Hi, please conduct a comprehensive Exploratory Data Analysis on the Dataset from 365 Data Science, a startup offering online courses to future data professionals. As they operate globally online, highlight any territorial trends
+or patterns evident in the dataset. The intention behind this analysis is to delve deeper into the dataset, revealing its potential for future detailed examinations. While analyzing, be on the lookout for any dataset
+inconsistencies or peculiarities and approach the tash with rigor and scrunity of a seasonaed data analyst. For a holistic understaning, ensure to integrate information from both sheets in the file using the 'User ID' and ID fields as 
+connecting points.
+
+- Preprocessing: Error Identification & Handling, Dupes, Data Validation & Inconsistencies 
+-- fix data input errors
+* In this file you will find a column named "Company". Please unify all entries in this column for the following three companies: GE, IBM, AT&T. Please correct and unify the different ways in which the companies names are written.
+
+-- Fix Data validation (country is Canada but City is Detroit)
+* Please sense check the data in this file and try to see if there are any errors or inconsistencies.
+* Can you find consistencies between the information in different columns? (it will return all of the options it will provide)
+* Please consider all possible City, Country pairs, is there anything strange there?
+* Please highlight these unusual city-country pairs in an excel file. will download the errors with boolean
+
+-- Dupes
+* Are there any issues in terms of inconsistency errirs and data entry mistakes in this spreadsheet.
+
+-- Data Discrepancies: Data Measured in cm & inches
+* In this file we have an issue because there is a discrepancy between the units of measurement (cm vs inches) Could you help with that. Please unify all measurements to centimeteres. Can I have an Excel file with the adjusted data?
+
+* In this spreadsheet, I have a sheet where both country and city data are consolidated into a single cell, Can you help me separate the data into tow columns? You will have to spell out the delimiter & approcach otherwise
+it will not parse it out properly. If there is a mistake....there appears to be a mistake in row 4.
+Please fix it and separate the xxxx. Please provide a download excel file
+
+-- Organize Messy Data
+* can you point out the issues with the data and organize it, please provide me with a downloadable excel file
+
+-- Data Mapping (provide it with a list of items &  blank columne to categorize)
+* To the best of your abilities, please categorize the financial items in the 'Map Financials' excel file into at least one or more of the following larger P&L catergories: Revenue, COGS, Operating expenses, Depreciation & Amortization,
+Interest Expense, Taxes
+
+-- Data Classification
+* in the provided file, you will find two sheets the xxx hseet contains grades ranging from 0 to 100 while the second sheet contains the classification. Your task is to use this grading system to classify each students grade and fill in 
+the 'Result' colummn of the grade sheet
+
+-- Order Data
+* there are sheets in this file, I need to sort/order all sales people by their country, keep the original structure
+
+-- COUNTIFS, SUMIF, VLOOKUPS
+doesnt perform but will create the forumla for you 
