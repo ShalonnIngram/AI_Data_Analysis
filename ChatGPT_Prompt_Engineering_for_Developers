@@ -1,3 +1,11 @@
 ChatGPT Prompt Engineering for Developers
 
-1. Write Clear
+1. Write clear and specific instructions
+Tatic 1: Use Delimiters
+  Triple quote: """
+  Triple backticks: ```,
+  Triple dashes: ---,
+  Angle brackets: <>,
+  XML tagsL <tag> </tag>
+
+
